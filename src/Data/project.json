@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Pathfinding Visualizer",
+
+    "imageSrc": "projects/pathfindingVisualizer.png",
+    "description": "Developed a shortest path visualizer by implementing  BFS, DFS, Dijkstra, and A* algorithms.",
+    "skills": ["React", "Data Structures", "Algorithms"],
+    "demo": "https://pakshik-banga.github.io/Pathfinding-Visualizer/",
+    "source": "https://github.com/Pakshik-Banga/Pathfinding-Visualizer"
+  },
+  {
+    "title": "Notes App",
+    "imageSrc": "projects/NotesApp.png",
+    "description": "Developed a notes app that allows users to write and store their notes using localhost, ensuring easy access and secure storage on their local machine.",
+    "skills": ["React", "Local Host"],
+    "demo": "https://pakshik-banga.github.io/Notes-App/",
+    "source": "https://github.com/Pakshik-Banga/Notes-App"
+  },
+  {
+    "title": "Tenzy Game",
+    "imageSrc": "projects/tenzyGame.png",
+    "description": "Created a Tenzy game using React to help kids learn about numbers by matching similar ones. This interactive game enhances numerical recognition and memory skills.",
+    "skills": ["React"],
+    "demo": "https://pakshik-banga.github.io/tenzy-game/",
+    "source": "https://github.com/Pakshik-Banga/tenzy-game"
+  }
+]
